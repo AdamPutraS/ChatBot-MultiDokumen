@@ -14,3 +14,8 @@ Aplikasi ini mengikuti langkah-langkah berikut untuk memberikan jawaban atas per
 4. Pencocokan Kemiripan: Ketika Anda mengajukan pertanyaan, aplikasi membandingkannya dengan potongan teks dan mengidentifikasi yang paling mirip secara semantik.
 
 5. Pembuatan Tanggapan: Potongan yang dipilih diteruskan ke model bahasa, yang menghasilkan respons berdasarkan konten PDF yang relevan.
+
+
+CATATAN: 
+Jika ingin run aplikasi ganti API OPENAI TOKEN di file .env menjadi = 
+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
